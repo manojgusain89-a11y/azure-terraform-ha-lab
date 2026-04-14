@@ -1,6 +1,4 @@
 name: Terraform Azure CI/CD
-
-name: Terraform Azure CI/CD
  
 on:
 # workflow_dispatch test:
